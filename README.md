@@ -2,7 +2,7 @@
 
 <img src="https://malekdamiri.com/img/malek-damiri.jpg" alt="Malek Damiri" width="160" align="right">
 
-I'm Head of Revenue Operations at a crypto prime brokerage, based in Atlanta, Georgia. I've spent 12+ years in revenue operations, analytics, and go-to-market roles across fintech, SaaS, e-commerce, and supply chain.
+I'm Head of Revenue Operations, based in Atlanta, Georgia. I've spent 12+ years in revenue operations, analytics, and go-to-market roles across fintech, SaaS, e-commerce, and supply chain.
 
 ### What I work on
 
