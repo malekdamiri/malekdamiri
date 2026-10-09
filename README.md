@@ -15,6 +15,7 @@ I'm Head of Revenue Operations, based in Atlanta, Georgia. I've spent 12+ years 
 - [Volume went up and revenue went down. Here is the pandas to explain it](https://malekdamiri.com/writing/revenue-decomposition-volume-mix-rate-pandas/)
 - [Snowflake SQL patterns for revenue reporting](https://malekdamiri.com/writing/snowflake-sql-patterns-for-revenue-reporting/)
 - [Teaching yourself SQL when your job is ops](https://malekdamiri.com/writing/teaching-yourself-sql-in-ops/)
+- [My stories on HackerNoon](https://hackernoon.com/u/malekdamiri)
 - [All writing](https://malekdamiri.com/writing/)
 
 Outside work I run, hike, make espresso, and collect records, usually with [Ben, my goldendoodle](https://malekdamiri.com/ben/).
@@ -28,3 +29,4 @@ Outside work I run, hike, make espresso, and collect records, usually with [Ben,
 - Pinterest: https://www.pinterest.com/malek_damiri/
 - SoundCloud: https://soundcloud.com/malek-damiri
 - YouTube: https://www.youtube.com/@malek.damiri
+- HackerNoon: https://hackernoon.com/u/malekdamiri
